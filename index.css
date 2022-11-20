@@ -41,7 +41,7 @@ body {
 button {
   position: relative;
   background-color: #e04b52;
-  border: none;
+  border: #e04b52 solid 1px;
   border-radius: 5px;
   height: 3rem;
   width: max-content;
